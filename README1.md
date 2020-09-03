@@ -1,4 +1,4 @@
 # Daniel Veliz
 
-Major: Computer Science
-Minor: Business
+<h1> Major: Computer Science </h1>
+<h2> Minor: Business </h2>
