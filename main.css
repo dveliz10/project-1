@@ -1,6 +1,7 @@
 h1{
   color: white;
   font-size: 40px;
+  font-style bold; 
   }
 ul{
   list-style-type: none;
@@ -8,4 +9,8 @@ ul{
   padding: 0;
   overflow: hidden;
 background-color: #EF2B01
+}
+
+  li{
+float: left;
 }
