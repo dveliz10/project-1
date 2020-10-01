@@ -18,4 +18,7 @@ float: left;
 li a{
   display: block;
   padding: 14px 16px;
+  text-align: center;
+  color: red
+    text-decoration: none;
 }
