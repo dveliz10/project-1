@@ -22,3 +22,7 @@ li a{
   color: white
     text-decoration: none;
 }
+
+li a:hover{
+  background-color; #070100
+}
