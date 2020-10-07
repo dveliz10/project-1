@@ -5,7 +5,7 @@
     <script type="text/javascipt">
     
   document.addEventListener('DOMContentListner', function() {
-    document.querySelector("Button
+    document.querySelector("button").onclick = inc;
       </script>
       </head>
       <body>
