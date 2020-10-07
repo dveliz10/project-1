@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <title></title>
-    <script>
+    <script type="text/javascipt">
     
       </script>
       </head>
