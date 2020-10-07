@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <title></title>
+  
     <script type="text/javascipt">
     
+  document.addEventListener('DOMContentListner', function() {
+    document.querySelector("Button
       </script>
       </head>
       <body>
