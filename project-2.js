@@ -5,16 +5,20 @@
     <script type="text/javascipt">
     
   document.addEventListener('DOMContentLoaded', function() {
-    document.querySelector("button").onclick = function() {
-      let msg = document.querySelector("#message").value;
-      alert(msg);
+    document.querySelector("new-task").onsubmit = function() {
+      const li=document.createElement('li');
+      li.innerHTML=document.query Selector('#task').value;
+      
+      document.querySelector("#tasks_list").append(li);
+    document.querySelector("#task").value = ' ';
+      
     }
-    })
+    });
                       
       </script>
       </head>
       <body>
-      <h1>Task</h1>
+      <h1>Task List</h1>
 <ul id="tasks_list">
   </ul>
 <form id="new-task">
