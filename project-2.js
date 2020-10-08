@@ -14,6 +14,15 @@
       </script>
       </head>
       <body>
+      <h1>Task</h1>
+<ul id="tasks_list">
+  </ul>
+<form id="new-task">
+  <input id="task" autocomplete="off" autofocusc placeholder="New Task" type="text">
+    <input id="submit" type="submit">
+      
+      
+  
       <form id="form">
         <input id="message" type="text"/>
           <input type="submit">
