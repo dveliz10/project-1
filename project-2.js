@@ -12,6 +12,7 @@
       document.querySelector("#tasks_list").append(li);
     document.querySelector("#task").value = ' ';
       
+      return false;
     }
     });
                       
